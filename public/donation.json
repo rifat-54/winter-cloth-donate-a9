@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Warmth Drive - Dhaka",
+      "image": "https://i.ibb.co.com/LhW08nC/images-1.jpg",
+      "description": "Donate warm clothes to help underprivileged communities in Dhaka stay warm this winter.",
+      "status": "Active",
+      "contactInfo": "contact@winterdrive.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Chattogram Charity Campaign",
+      "image": "https://i.ibb.co.com/mFtrDkk/images.jpg",
+      "description": "Providing winter essentials to families in need across Chattogram.",
+      "status": "Active",
+      "contactInfo": "chattogram@winterdrive.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Sylhet Warm Clothes Collection",
+      "image": "https://i.ibb.co.com/Kwzjy2p/raniammal-charitable-trust-mudaliarpet-pondicherry-ngos-for-cloth-donation-xbwj2pivtv-250.webp",
+      "description": "Join our campaign to distribute winter clothes in rural areas of Sylhet.",
+      "status": "Completed",
+      "contactInfo": "sylhet@winterdrive.com",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Rajshahi Winter Relief Program",
+      "image": "https://i.ibb.co.com/kypdzmB/gettyimages-528242219-612x612.jpg",
+      "description": "Helping families in Rajshahi with donations of warm clothing.",
+      "status": "Active",
+      "contactInfo": "rajshahi@winterdrive.com",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Barishal Blanket Donation Drive",
+      "image": "https://i.ibb.co.com/kqMw7Qk/coats-spps-web.jpg",
+      "description": "Collecting blankets and warm clothes for the elderly in Barishal.",
+      "status": "Upcoming",
+      "contactInfo": "barishal@winterdrive.com",
+      "division": "Barishal"
+    },
+    {
+      "id": 6,
+      "title": "Khulna Winter Aid Campaign",
+      "image": "https://i.ibb.co.com/p0CX3CR/istockphoto-1456115833-612x612.jpg",
+      "description": "Spreading warmth to underprivileged children in Khulna.",
+      "status": "Active",
+      "contactInfo": "khulna@winterdrive.com",
+      "division": "Khulna"
+    },
+    {
+      "id": 7,
+      "title": "Rangpur Helping Hands",
+      "image": "https://i.ibb.co.com/34jGZtV/istockphoto-1367501330-612x612.jpg",
+      "description": "Providing winter clothes to low-income families in Rangpur.",
+      "status": "Completed",
+      "contactInfo": "rangpur@winterdrive.com",
+      "division": "Rangpur"
+    },
+    {
+      "id": 8,
+      "title": "Mymensingh Warmth Project",
+      "image": "https://i.ibb.co.com/Nxs4Rh0/OWC-1200x760.jpg",
+      "description": "Supporting marginalized communities in Mymensingh with winter essentials.",
+      "status": "Active",
+      "contactInfo": "mymensingh@winterdrive.com",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 9,
+      "title": "Comilla Winter Donation Campaign",
+      "image": "https://i.ibb.co.com/C0jNnTW/winter-clothes-in-a-cardboard-box-seasonal-clothing-for-shipping-or-donation-W36-T1-F.jpg",
+      "description": "Helping the poor stay warm during the cold months in Comilla.",
+      "status": "Upcoming",
+      "contactInfo": "comilla@winterdrive.com",
+      "division": "Comilla"
+    }
+  ]
+  
